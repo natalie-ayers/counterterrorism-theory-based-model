@@ -3,3 +3,4 @@ Work exploring the theory-generating possibilities of computational counterterro
   
 process_datasets.ipynb: primary analysis used in paper
 model.py: counterterrorism model using Mesa
+local_model.ipynb: script to locally run instances of counterterrorism model
